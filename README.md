@@ -5,5 +5,5 @@ This repository contains my solutions for assignments in
 ## Assignments
 
 ### Module 2
-* [Assignment description](./descriptions/assignment2/Assignment-2.md)
+* [Assignment description](https://github.com/Artlist-creator/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md)
 * [Solution](https://artlist-creator.github.io/JHU-fullstack-course4/module2-solution/)
