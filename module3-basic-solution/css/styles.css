@@ -1,0 +1,98 @@
+/*BASIC STYLE*/
+* {
+    color: #F0DECB;
+}
+
+/*END BASIC STYLE*/
+
+/*HEADER*/
+
+#header-nav {
+    background-color: #504658
+}
+
+.navbar-brand > a:focus,
+.navbar-brand > a:hover,
+.navbar-brand > a:active,
+.navbar-brand > a {
+    text-decoration: none;
+    color: #F0DECB
+}
+
+.navbar-brand h1 {
+    margin: 0;
+    font-weight: bold;
+    font-size: 1.7em;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 1px #FFB5B5;
+    line-height: .75;
+}
+
+#nav-list {
+    text-align: center;
+    font-size: 1.3em;
+    margin: 0;
+}
+
+#collapsable-contents {
+    clear: both;
+    border-color: #504658;
+}
+
+.navbar-default {
+    border-color: #504658;
+}
+
+.container-header button.navbar-toggle {
+    clear: both;
+    margin-top: -40px;
+}
+
+.container-header button.navbar-toggle,
+.container-header .icon-bar {
+    border: 1px solid #F0DECB;
+}
+
+/*END HEADER*/
+
+/*MAIN SECTION*/
+body {
+    background-color: #504;
+}
+
+h2 {
+    color: #FFB5B5;
+    font-weight: bolder;
+}
+
+#section-tile {
+    background-color: #CE2E6C;
+    border-radius: 12px;
+    box-shadow: 1px 1px 1px #FFB5B5;
+
+}
+
+.row {
+    padding-right: 21px;
+    padding-left: 21px;
+}
+
+#main-content h3 {
+    font-weight: bold;
+    font-size: 1.3em;
+    margin: 10px auto 15px auto;
+}
+
+/*END SECTION*/
+
+/*RESPOSIVE DESIGN*/
+
+/********** Extra small devices only **********/
+@media (max-width: 767px) {
+    #section-tile > h3{
+        padding-top: 15px;
+    }
+}
+
+/*END RESPONSIVE DESIGN*/
+
