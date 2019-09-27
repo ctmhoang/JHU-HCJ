@@ -1,0 +1,94 @@
+/*BASIC STYLE*/
+* {
+    color: #F0DECB;
+}
+
+/*END BASIC STYLE*/
+
+/*HEADER*/
+
+#header-nav {
+    background-color: #504658
+}
+
+.navbar-brand > a:focus,
+.navbar-brand > a:hover,
+.navbar-brand > a:active,
+.navbar-brand > a {
+    text-decoration: none;
+    color: #F0DECB;
+}
+
+.navbar-brand h1 {
+    margin: 0;
+    font-weight: bold;
+    font-size: 1.7em;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 1px #FFB5B5;
+    line-height: .75;
+}
+
+#nav-list {
+    text-align: center;
+    font-size: 1.7em;
+    margin: 15px auto 15px;
+}
+
+#collapsable-contents a {
+    margin: 23px;
+}
+
+#collapsable-contents {
+    clear: both;
+    border-color: #504658;
+}
+
+.navbar-default {
+    border-color: #504658;
+}
+
+.container-header button.navbar-toggle {
+    clear: both;
+    margin-top: -40px;
+}
+
+.container-header button.navbar-toggle,
+.container-header .icon-bar {
+    border: 1px solid #F0DECB;
+}
+
+/*END HEADER*/
+
+/*MAIN SECTION*/
+body {
+    background-color: #504;
+}
+
+h2 {
+    color: #FFB5B5;
+    font-weight: bolder;
+    font-size: 2.4em;
+    margin-bottom: 120px;
+}
+
+.cell{
+    text-align: center;
+    border-radius: 10px;
+    background-color: #602080; 
+    margin-bottom: 15px;
+    box-shadow: 11px 11px 11px #202040;
+}
+
+.cell h3{
+    font-weight: bold;
+    font-size: 1.7em;
+    margin: 0px;
+    padding: 17px 0px 22px;
+}
+
+
+.cell article{
+    padding: 10px;
+}
+
+/*END SECTION*/
