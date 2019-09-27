@@ -1,6 +1,11 @@
+/*BASIC STYLE*/
 * {
     color: #F0DECB;
 }
+
+/*END BASIC STYLE*/
+
+/*HEADER*/
 
 #header-nav {
     background-color: #504658
@@ -34,7 +39,7 @@
     border-color: #504658;
 }
 
-.navbar-default{
+.navbar-default {
     border-color: #504658;
 }
 
@@ -43,11 +48,14 @@
     margin-top: -40px;
 }
 
-.container-header button.navbar-toggle, .container-header .icon-bar {
+.container-header button.navbar-toggle,
+.container-header .icon-bar {
     border: 1px solid #F0DECB;
 }
 
+/*END HEADER*/
 
+/*MAIN SECTION*/
 body {
     background-color: #504;
 }
@@ -74,3 +82,17 @@ h2 {
     font-size: 1.3em;
     margin: 10px auto 15px auto;
 }
+
+/*END SECTION*/
+
+/*RESPOSIVE DESIGN*/
+
+/********** Extra small devices only **********/
+@media (max-width: 767px) {
+    #section-tile > h3{
+        padding-top: 15px;
+    }
+}
+
+/*END RESPONSIVE DESIGN*/
+
