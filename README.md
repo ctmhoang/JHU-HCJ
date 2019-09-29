@@ -12,3 +12,7 @@ This repository contains my solutions for assignments in
 * [Assignment description](https://github.com/Artlist-creator/fullstack-course4/blob/master/assignments/assignment3/Assignment-3.md)
 * [Basic solution](https://artlist-creator.github.io/JHU-fullstack-course4/module3-basic-solution/)
 * [Full-opt solution](https://artlist-creator.github.io/JHU-fullstack-course4/module3-full-solution/)
+
+### Module 4
+* [Assignment description](https://github.com/Artlist-creator/fullstack-course4/blob/master/assignments/assignment4/Assignment-4.md)
+* [Solution](https://artlist-creator.github.io/JHU-fullstack-course4/module4-solution/harder/)
